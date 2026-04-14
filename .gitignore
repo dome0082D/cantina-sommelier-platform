@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# Environment Variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Directory for uploads
+uploads/
+
+# npm packages
+package-lock.json
+
+# Yarn Integrity file
+yarn.lock
+
+# Optional npm cache directory
+.npm
